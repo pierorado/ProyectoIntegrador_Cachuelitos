@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cachuelitos</string>
+    <string name="main_nombre">Nombre Completo</string>
+    <string name="main_apellido">Nombre de Usuario</string>
+    <string name="main_correo">Correo Electronico</string>
+    <string name="main_contraseña">Contraseña</string>
+    <string name="main_registrate">Registrarse</string>
+    <string name="main_CuentaCreada">¿Ya tienes una cuenta?</string>
+    <string name="main_IniciarSesion">Iniciar Sesion</string>
+    <string name="main_usuario">Usuario</string>
+</resources>
